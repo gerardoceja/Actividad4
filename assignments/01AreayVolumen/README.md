@@ -17,9 +17,7 @@ if __name__ == '__main__':
 
 <br>Escribe un programa que calcule área y volumen de una esfera se calcula con las siguientes fórmulas:
 <br>área =  4 π r^2
-<p>volumen =  4 π r^3
-<p>          _________
-<p>              3
+<p>volumen = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4\pi&space;r^{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4\pi&space;r^{3}}{3}" title="\frac{4\pi r^{3}}{3}" /></a>
 </p>
 <br>Escribe un programa que pida el valor del radio y muestre su área y su volumen.
 <h2>Entrada</h2>
