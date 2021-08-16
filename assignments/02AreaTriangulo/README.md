@@ -17,7 +17,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Modifica el programa para que lea los datos El área de un triángulo cuyos lados son de longitud a, b y c se calcula como 
 
-     área = <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt[2]{s(s-a)(s-b)(s-c)))}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt[2]{s(s-a)(s-b)(s-c)))}" title="\sqrt[2]{s(s-a)(s-b)(s-c)))}" /></a>      
+     área = <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt[2]{s(s-a)(s-b)(s-c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt[2]{s(s-a)(s-b)(s-c)}" title="\sqrt[2]{s(s-a)(s-b)(s-c)}" /></a>  
 
 dónde <a href="https://www.codecogs.com/eqnedit.php?latex=s=\frac{a&plus;b&plus;c}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s=\frac{a&plus;b&plus;c}{2}" title="s=\frac{a+b+c}{2}" /></a>
 
