@@ -17,10 +17,10 @@ if __name__ == '__main__':
 
 <br>Escribe un programa que calcule área y volumen de una esfera se calcula con las siguientes fórmulas:
 <br>área =  4 π r^2
-<br>volumen =  4 π r^3
-<br>          _________
-<br>              3
-
+<p>volumen =  4 π r^3
+<p>          _________
+<p>              3
+</p>
 <br>Escribe un programa que pida el valor del radio y muestre su área y su volumen.
 <h2>Entrada</h2>
 Un numero el cual es el valor del radio
