@@ -18,7 +18,7 @@ sudo -H pip3 install pytest
 - ## 01 Operaciones Básicas
     ### Run command
     ```
-    pytest assignments/01OperacionesBasicas
+    pytest assignments/01AreayVolumen
     ```
 
 - ## 02 Área Triángulo

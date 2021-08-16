@@ -5,18 +5,19 @@
 input_values = [
     (
         # Inputs
-        ["7", "5"],
+        ["4", "5", "6"],
         # Outputs
-        ["Dame la base: ", "Dame la altura: ", "El área es: 17.5"],
+        ["Dame valor a: ", "Dame valor b: ", "Dame valor c: ","Area: 9.921567416492215"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la fórmula del área del triángulo."
     ),
     (
         # Inputs
-        ["10", "8"],
+        ["4", "8", "5"],
         # Outputs
-        ["Dame la base: ", "Dame la altura: ", "El área es: 40.0"],
+        ["Dame valor a: ", "Dame valor b: ", "Dame valor c: ","Area:  8.181534085976786"],
         # Error message
         "Revisa los tipos de dato de tus variables. Revisa la fórmula del área del triángulo."
+
     )
 ]
