@@ -3,5 +3,3 @@
 
 - 01 Área y volumen
 - 02 Área Triángulo
-- 03 Premedio Calificaciones
-- 04 Calcula tiempo
