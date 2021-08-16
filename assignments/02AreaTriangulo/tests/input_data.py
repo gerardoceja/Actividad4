@@ -20,4 +20,14 @@ input_values = [
         "Revisa los tipos de dato de tus variables. Revisa la fórmula del área del triángulo."
 
     )
+    ,
+    (
+        # Inputs
+        ["10", "15", "20"],
+        # Outputs
+        ["Dame valor a: ", "Dame valor b: ", "Dame valor c: ","Area:  72.61843774138907"],
+        # Error message
+        "Revisa los tipos de dato de tus variables. Revisa la fórmula del área del triángulo."
+
+    )
 ]
