@@ -17,9 +17,10 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Modifica el programa para que lea los datos El área de un triángulo cuyos lados son de longitud a, b y c se calcula como 
 
-     <a href="https://www.codecogs.com/eqnedit.php?latex=area=\sqrt{s(s-a)(s-b)(s-c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?area=\sqrt{s(s-a)(s-b)(s-c)}" title="area=\sqrt{s(s-a)(s-b)(s-c)}" /></a>
+     
+<br> área = raíz cuadrada(( s − a ) ( s − b ) ( s − c ) )  
 
-dónde <a href="https://www.codecogs.com/eqnedit.php?latex=s=\frac{a&plus;b&plus;c}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s=\frac{a&plus;b&plus;c}{2}" title="s=\frac{a+b+c}{2}" /></a>
+<br>dónde <a href="https://www.codecogs.com/eqnedit.php?latex=s=\frac{a&plus;b&plus;c}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s=\frac{a&plus;b&plus;c}{2}" title="s=\frac{a+b+c}{2}" /></a>
 
 Escribe un programa que pida al usuario los valores a, b y c y calcule y muestre el área del triángulo usando esta fórmula.
 
