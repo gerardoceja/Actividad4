@@ -16,7 +16,7 @@ if __name__ == '__main__':
 <br>La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
 <br>Escribe un programa que calcule área y volumen de una esfera se calcula con las siguientes fórmulas:
-<br>área =  4 π r^2
+<br>área = <a href="https://www.codecogs.com/eqnedit.php?latex=4\pi&space;r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?4\pi&space;r^{2}" title="4\pi r^{2}" /></a>
 <p>volumen = <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4\pi&space;r^{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4\pi&space;r^{3}}{3}" title="\frac{4\pi r^{3}}{3}" /></a>
 </p>
 <br>Escribe un programa que pida el valor del radio y muestre su área y su volumen.
